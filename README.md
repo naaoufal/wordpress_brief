@@ -28,5 +28,6 @@ Open Source, et des dizaines de millions de sites Web l'utilisent.
   - telecharger zip ou rar dossier.
   - extract votre zip ou rar dossier sous htdoc ou votre environement de travail
   - ouvrir phpmyadmin et creer une base de donnée appelée wordpress_testing.
+  - executer le fichier wordpress_testing.sql
   - suivant inserer votre nom : "admin", et mot de passe : "admin".
   - apres acceder a votre site web.
