@@ -23,4 +23,8 @@ Open Source, et des dizaines de millions de sites Web l'utilisent.
 	. Adobe.
 	. Joomla.
   
-  # Pour installation if faut creer une base de donnée appelée wordpress_testing
+  # Pour installation :
+  
+  - creer une base de donnée appelée wordpress_testing.
+  - suivant inserer votre nom : "admin", et mot de passe : "admin".
+  - apres acceder a votre site web.
